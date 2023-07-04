@@ -8,7 +8,13 @@
 */
 
 function isAnagram(str1, str2) {
-
+   let a = str.length;
+   let b = str.length;
+  if(a!==b)
+  {
+    console.log("INVALID INPUT");
+  }
+   let 
 }
 
 module.exports = isAnagram;
