@@ -16,7 +16,7 @@ function isAnagram(str1, str2) {
   }
    let st1 = str1.split('').sort().join('');
    let st2 = str2.split('').sort().join('');
-  if(st1===st2
+  if(st1===st2)
     console.log("True");
   }
 else{
